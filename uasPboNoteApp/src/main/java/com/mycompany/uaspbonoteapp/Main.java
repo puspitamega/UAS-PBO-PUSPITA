@@ -8,7 +8,7 @@ import com.mycompany.uaspbonoteapp.db.NoteAppMenu;
 
 
 /**
- *
+ *2
  * @author budi
  */
 public class Main{
