@@ -6,11 +6,6 @@ package com.mycompany.uaspbonoteapp;
 
 import com.mycompany.uaspbonoteapp.db.NoteAppMenu;
 
-
-/**
- *2
- * @author budi
- */
 public class Main{
 
     public static void main(String[] args) {

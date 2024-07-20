@@ -41,7 +41,7 @@ public class NoteAppMenu {
     }
 
     private void showMenu() {
-        System.out.println("\nNote App Menu oleh: Heru Pratama NIM: 23201266.");
+        System.out.println("\nNote App Menu oleh: Puspita Mega Lestari NIM: 23201291.");
         System.out.println("1. Tambah Catatan");
         System.out.println("2. Tampilkan Catatan");
         System.out.println("3. Hapus Catatan");

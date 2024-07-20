@@ -6,10 +6,7 @@ package com.mycompany.uaspbonoteapp.db;
 
 import java.util.List;
 
-/**
- *
- * @author budi
- */
+
 public interface DataStorage {
 
     void writeData(String note);
